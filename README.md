@@ -41,4 +41,3 @@ Please make sure to follow these guidelines when contributing:
 # License
 
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as you wish!
-Contact
